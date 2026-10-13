@@ -15,12 +15,12 @@
 flowchart TD
 
 A@{ shape: circle, label: "Mulai" }
-B@{ shape: lean-r, label: "masukan nilai mahasiswa" }
+B@{ shape: lean-r, label: " nilai" }
 C@{ shape: diamond, label: "nilai > 80" }
 D@{ shape: diamond, label: "nilai <= 80" }
-E@{ shape: rect, label: "nilai A" }
-F@{ shape: rect, label: "nilai B" }
-G@{ shape: rect, label: "nilai C" }
+E@{ shape: lean-l, label: "nilai A" }
+F@{ shape: lean-l, label: "nilai B" }
+G@{ shape: lean-l, label: "nilai C" }
 H@{ shape: dbl-circ, label: "Selesai" }
 
 

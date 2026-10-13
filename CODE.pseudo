@@ -1,0 +1,11 @@
+DECLARE nilai : INTEGER
+
+IF nilai > 80 THEN
+    OUTPUT "A"
+ELSE
+    IF nilai <= 80 THEN
+        OUTPUT "B"
+    ELSE
+        OUTPUT "C"
+    ENDIF
+ENDIF
