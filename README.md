@@ -18,9 +18,9 @@ A@{ shape: circle, label: "Mulai" }
 B@{ shape: lean-r, label: " nilai" }
 C@{ shape: diamond, label: "nilai > 80" }
 D@{ shape: diamond, label: "nilai <= 80" }
-E@{ shape: lean-l, label: "nilai A" }
-F@{ shape: lean-l, label: "nilai B" }
-G@{ shape: lean-l, label: "nilai C" }
+E@{ shape: lean-r, label: "''nilai A''" }
+F@{ shape: lean-r, label: "''nilai B''" }
+G@{ shape: lean-r, label: "''nilai C''" }
 H@{ shape: dbl-circ, label: "Selesai" }
 
 
